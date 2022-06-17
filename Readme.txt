@@ -1,2 +1,2 @@
- https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
-
+ https://bootstrapmade.com/demo/Rapid/
+ 
